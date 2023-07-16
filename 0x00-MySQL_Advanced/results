@@ -1,0 +1,458 @@
+[
+  {
+    "origin": "USA",
+    "nb_fans": "99349"
+  },
+  {
+    "origin": "Sweden",
+    "nb_fans": "47169"
+  },
+  {
+    "origin": "Finland",
+    "nb_fans": "32878"
+  },
+  {
+    "origin": "United Kingdom",
+    "nb_fans": "32518"
+  },
+  {
+    "origin": "Germany",
+    "nb_fans": "29486"
+  },
+  {
+    "origin": "Norway",
+    "nb_fans": "22405"
+  },
+  {
+    "origin": "Canada",
+    "nb_fans": "8874"
+  },
+  {
+    "origin": "The Netherlands",
+    "nb_fans": "8819"
+  },
+  {
+    "origin": "Italy",
+    "nb_fans": "7178"
+  },
+  {
+    "origin": "France",
+    "nb_fans": "7127"
+  },
+  {
+    "origin": "Australia",
+    "nb_fans": "5825"
+  },
+  {
+    "origin": "Poland",
+    "nb_fans": "5805"
+  },
+  {
+    "origin": "Switzerland",
+    "nb_fans": "3875"
+  },
+  {
+    "origin": "Greece",
+    "nb_fans": "3518"
+  },
+  {
+    "origin": "Denmark",
+    "nb_fans": "3084"
+  },
+  {
+    "origin": "Brazil",
+    "nb_fans": "3070"
+  },
+  {
+    "origin": "Austria",
+    "nb_fans": "2507"
+  },
+  {
+    "origin": "Portugal",
+    "nb_fans": "1873"
+  },
+  {
+    "origin": "Russia",
+    "nb_fans": "1836"
+  },
+  {
+    "origin": "Spain",
+    "nb_fans": "1832"
+  },
+  {
+    "origin": "United Kingdom, USA",
+    "nb_fans": "1684"
+  },
+  {
+    "origin": "Japan",
+    "nb_fans": "1494"
+  },
+  {
+    "origin": "Ireland",
+    "nb_fans": "1381"
+  },
+  {
+    "origin": "Denmark, USA",
+    "nb_fans": "1166"
+  },
+  {
+    "origin": "Belgium",
+    "nb_fans": "1041"
+  },
+  {
+    "origin": "Israel",
+    "nb_fans": "1040"
+  },
+  {
+    "origin": "Ukraine",
+    "nb_fans": "739"
+  },
+  {
+    "origin": "Romania",
+    "nb_fans": "722"
+  },
+  {
+    "origin": "Faroe Islands",
+    "nb_fans": "618"
+  },
+  {
+    "origin": "Iceland",
+    "nb_fans": "609"
+  },
+  {
+    "origin": "Chile",
+    "nb_fans": "544"
+  },
+  {
+    "origin": "Hungary",
+    "nb_fans": "538"
+  },
+  {
+    "origin": "Czech Republic",
+    "nb_fans": "414"
+  },
+  {
+    "origin": "Iran",
+    "nb_fans": "372"
+  },
+  {
+    "origin": "Argentina",
+    "nb_fans": "331"
+  },
+  {
+    "origin": "Israel, The Netherlands",
+    "nb_fans": "307"
+  },
+  {
+    "origin": "",
+    "nb_fans": "299"
+  },
+  {
+    "origin": "Andorra",
+    "nb_fans": "279"
+  },
+  {
+    "origin": "Tunisia, France",
+    "nb_fans": "275"
+  },
+  {
+    "origin": "New Zealand",
+    "nb_fans": "269"
+  },
+  {
+    "origin": "Estonia",
+    "nb_fans": "235"
+  },
+  {
+    "origin": "Turkey",
+    "nb_fans": "217"
+  },
+  {
+    "origin": "Taiwan",
+    "nb_fans": "216"
+  },
+  {
+    "origin": "Latvia",
+    "nb_fans": "215"
+  },
+  {
+    "origin": "Slovenia",
+    "nb_fans": "215"
+  },
+  {
+    "origin": "Colombia, USA",
+    "nb_fans": "184"
+  },
+  {
+    "origin": "Serbia",
+    "nb_fans": "182"
+  },
+  {
+    "origin": "Hungary, United Kingdom",
+    "nb_fans": "177"
+  },
+  {
+    "origin": "Mexico",
+    "nb_fans": "173"
+  },
+  {
+    "origin": "Jordan",
+    "nb_fans": "150"
+  },
+  {
+    "origin": "India",
+    "nb_fans": "145"
+  },
+  {
+    "origin": "Greece, Sweden",
+    "nb_fans": "141"
+  },
+  {
+    "origin": "Syria",
+    "nb_fans": "138"
+  },
+  {
+    "origin": "Sweden, Finland",
+    "nb_fans": "134"
+  },
+  {
+    "origin": "Slovak Republic",
+    "nb_fans": "130"
+  },
+  {
+    "origin": "Lithuania",
+    "nb_fans": "129"
+  },
+  {
+    "origin": "Australia, United Kingdom",
+    "nb_fans": "124"
+  },
+  {
+    "origin": "Indonesia",
+    "nb_fans": "103"
+  },
+  {
+    "origin": "Singapore",
+    "nb_fans": "100"
+  },
+  {
+    "origin": "Malta",
+    "nb_fans": "96"
+  },
+  {
+    "origin": "Egypt",
+    "nb_fans": "86"
+  },
+  {
+    "origin": "Croatia",
+    "nb_fans": "83"
+  },
+  {
+    "origin": "UAE",
+    "nb_fans": "82"
+  },
+  {
+    "origin": "Liechtenstein",
+    "nb_fans": "74"
+  },
+  {
+    "origin": "China",
+    "nb_fans": "66"
+  },
+  {
+    "origin": "Bulgaria",
+    "nb_fans": "65"
+  },
+  {
+    "origin": "Norway, Finland",
+    "nb_fans": "64"
+  },
+  {
+    "origin": "Belgium, United Kingdom",
+    "nb_fans": "58"
+  },
+  {
+    "origin": "Russia, Canada",
+    "nb_fans": "58"
+  },
+  {
+    "origin": "Lebanon",
+    "nb_fans": "57"
+  },
+  {
+    "origin": "Iraq, USA",
+    "nb_fans": "51"
+  },
+  {
+    "origin": "Kyrgyzstan, Germany",
+    "nb_fans": "41"
+  },
+  {
+    "origin": "South Africa",
+    "nb_fans": "38"
+  },
+  {
+    "origin": "Luxembourg",
+    "nb_fans": "33"
+  },
+  {
+    "origin": "Belarus",
+    "nb_fans": "32"
+  },
+  {
+    "origin": "Bosnia and Herzegovina",
+    "nb_fans": "31"
+  },
+  {
+    "origin": "Saudi Arabia",
+    "nb_fans": "26"
+  },
+  {
+    "origin": "Costa Rica",
+    "nb_fans": "26"
+  },
+  {
+    "origin": "Georgia",
+    "nb_fans": "20"
+  },
+  {
+    "origin": "USA, Cyprus",
+    "nb_fans": "20"
+  },
+  {
+    "origin": "Peru",
+    "nb_fans": "20"
+  },
+  {
+    "origin": "Bahrain",
+    "nb_fans": "19"
+  },
+  {
+    "origin": "Iraq",
+    "nb_fans": "19"
+  },
+  {
+    "origin": "Moldova",
+    "nb_fans": "18"
+  },
+  {
+    "origin": "Korea, South",
+    "nb_fans": "17"
+  },
+  {
+    "origin": "Cyprus",
+    "nb_fans": "16"
+  },
+  {
+    "origin": "Malaysia",
+    "nb_fans": "16"
+  },
+  {
+    "origin": "Greece, USA",
+    "nb_fans": "13"
+  },
+  {
+    "origin": "Monaco",
+    "nb_fans": "12"
+  },
+  {
+    "origin": "Israel, Germany",
+    "nb_fans": "12"
+  },
+  {
+    "origin": "Colombia",
+    "nb_fans": "11"
+  },
+  {
+    "origin": "Macedonia",
+    "nb_fans": "11"
+  },
+  {
+    "origin": "Portugal, United Kingdom",
+    "nb_fans": "10"
+  },
+  {
+    "origin": "Bosnia and Herzegovina, Croatia",
+    "nb_fans": "9"
+  },
+  {
+    "origin": "Iran, Norway",
+    "nb_fans": "6"
+  },
+  {
+    "origin": "Finland, Sweden",
+    "nb_fans": "6"
+  },
+  {
+    "origin": "Sri Lanka",
+    "nb_fans": "6"
+  },
+  {
+    "origin": "Ukraine, Canada",
+    "nb_fans": "5"
+  },
+  {
+    "origin": "Bolivia",
+    "nb_fans": "5"
+  },
+  {
+    "origin": "Armenia",
+    "nb_fans": "4"
+  },
+  {
+    "origin": "Azerbaijan",
+    "nb_fans": "4"
+  },
+  {
+    "origin": "Mexico, USA",
+    "nb_fans": "3"
+  },
+  {
+    "origin": "Lithuania, United Kingdom",
+    "nb_fans": "3"
+  },
+  {
+    "origin": "Ecuador",
+    "nb_fans": "3"
+  },
+  {
+    "origin": "Canada, France",
+    "nb_fans": "2"
+  },
+  {
+    "origin": "Albania",
+    "nb_fans": "2"
+  },
+  {
+    "origin": "Jersey",
+    "nb_fans": "2"
+  },
+  {
+    "origin": "Lithuania, Germany",
+    "nb_fans": "2"
+  },
+  {
+    "origin": "United Kingdom, Greece",
+    "nb_fans": "2"
+  },
+  {
+    "origin": "Swaziland",
+    "nb_fans": "2"
+  },
+  {
+    "origin": "Italy, Spain",
+    "nb_fans": "1"
+  },
+  {
+    "origin": "Venezuela",
+    "nb_fans": "1"
+  },
+  {
+    "origin": "Poland, Sweden",
+    "nb_fans": "1"
+  },
+  {
+    "origin": "Greenland",
+    "nb_fans": "0"
+  }
+]
