@@ -1,0 +1,3 @@
+// lets switch gears up and use another db `my_db`
+
+use my_db;
