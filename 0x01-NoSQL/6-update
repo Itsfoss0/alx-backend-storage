@@ -1,0 +1,13 @@
+// Update the databases object
+
+newAddress = {
+    $set: {
+        address: "972 Mission street"
+    }
+}
+
+filter = {
+    name: "Holberton school"
+}
+
+db.school.updateMany(filter, newAddress)
