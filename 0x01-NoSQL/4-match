@@ -1,8 +1,6 @@
 // list all documents in the collection
 // where the name key = "Holberton school"
 
-filter = {
-    name: "Holberton school"
-}
 
-db.school.find(filter)
+
+db.school.find({name: "Holberton school"}, {name: 1, _id:1})
