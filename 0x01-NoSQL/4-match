@@ -1,0 +1,8 @@
+// list all documents in the collection
+// where the name key = "Holberton school"
+
+filter = {
+    name: "Holberton school"
+}
+
+db.school.find(filter)
