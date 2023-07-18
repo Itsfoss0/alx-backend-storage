@@ -1,0 +1,3 @@
+// delete all objects from a collection of the db passed as argument
+
+db.school.deleteMany({name: "Holberton school"})
