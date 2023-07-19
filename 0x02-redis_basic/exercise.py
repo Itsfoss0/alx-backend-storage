@@ -23,6 +23,15 @@ def count_calls(method: Callable) -> Callable:
     """
     @wraps(method)
     def wrapper(self, *args, **kwargs):
+        """
+        The callback that gets returned by the decorator
+        Args:
+            args(list): A list of arguments
+            kwargs(dict): A dictionary of keyworded args
+        Returns:
+            returns the return value of calling the `method`
+            method, passing in the args passed to this function
+        """
         self._redis.incr(method.__qualname__)
         return method(self, *args, **kwargs)
 
