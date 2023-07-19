@@ -1,4 +1,4 @@
-#!/usr/bine/env python3
+#!/usr/bin/env python3
 
 
 """
@@ -33,6 +33,6 @@ class Cache:
         Returns:
             Returns a string
         """
-        self.random_key = str(uuid4())
-        self._redis.set(self.random_key, data)
-        return self.random_key
+        random_key = str(uuid4())
+        self._redis.set(random_key, data)
+        return random_key
