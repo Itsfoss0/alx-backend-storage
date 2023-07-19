@@ -87,7 +87,7 @@ class Cache:
             data (Union): The item to be stored
         """
         store_key = str(uuid4())
-        self._redis.set(store_key, data)
+        self._redis.set(store_key, str(data))
         return store_key
 
     def get(self, key: str,
