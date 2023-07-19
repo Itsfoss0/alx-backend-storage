@@ -8,3 +8,5 @@ This repo holds the concepts, projects, and resources on advanced database desig
 1. [0x00](./0x00-MySQL_Advanced): Advanced MySQL 
 
 2. [0x01](./0x01-NoSQL): NoSQL (MongoDB)
+
+3. [0x02](./0x02-redis_basic/): Reddis Basics
